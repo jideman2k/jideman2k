@@ -7,7 +7,8 @@
 - 🌱 I’m currently personalizing my projects...
 - 💞️ I’m looking to forward to get hired...
 - 📫 How to reach me ...
-- checkout my minimalist portfilio: http://app.johnsonjide.netflify.com
+
+
 
 <!---
 jideman2k/jideman2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
